@@ -1,0 +1,54 @@
+p{font-family: serif; margin: 30px; font-size: 100%}
+
+p.just{text-align: justify}
+h1.center{text-align: center; padding: 5px}
+h3.center{padding: 5px}
+
+h1{font-style: italic}
+h1{font-family: sans-serif}
+h1{text-transform: uppercase}
+
+h3{font-style: italic}
+h3{font-family: sans-serif}
+h3	{text-transform: uppercase}
+
+input, select{font-size: 100%}
+
+select{margin-right: 20px}
+select{margin-bottom: 10px}
+
+input.tf{width: 300px}
+input.tf2{width: 400px}
+
+body{
+	background-image: url();
+	background-attachment: fixed;
+}
+
+ul{
+  list-style-image: url("check.gif");
+ }
+
+div.t1{background-color: whitesmoke; margin: -10px;}
+div.t2{background-color: whitesmoke; margin-bottom: 10px; margin-top: 10px; padding: 5px;}
+div.t5{background-color: whitesmoke; margin-bottom: 10px; margin-top: 40px; padding: 30px;}
+
+img.tam{max-width: 120px; max-height: 120px;}
+img.tam2{max-width: 220px; max-height: 220px;}
+#center{text-align: center; text-transform: uppercase;}
+#center2{text-align: center; text-transform: uppercase; margin: 60px 240px 60px 240px;}
+#center3{text-align: center; text-transform: uppercase;}
+#footer{text-align: center; margin: 60px 240px 60px 240px; color: gray; font-size: 80%; position: relative; clear: left;}
+p.botao{border: solid; border-style: outset; text-align: center; width: 90px; padding: 4px; float: left; font-size: 80%; margin-right: 10px;}
+
+a{color: black; font-family: sans-serif; text-decoration: none;}
+a:hover{color: black}
+div.t3{align-items: center; align-content: center; text-align: center;}
+
+div.t4{background-color: whitesmoke; margin-bottom: 10px; margin-top: 10px; padding: 0px}
+
+.flex-centralizado {
+  display: flex;
+  justify-content: center;
+  align-items: center; align-content: center; text-align: center;
+}
